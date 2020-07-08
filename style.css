@@ -1,11 +1,33 @@
 .sign{background-color: rgba(10, 221, 116, 0.877);padding: 0px 25px;border-radius: 20px;color: white;border: none;}
 
 .img{max-width: 100px;}
+.img1{max-width: 30px;}
+.img2{max-width: 50%;;}
 
-.button{background-color: rgba(10, 221, 116, 0.877);padding: 5px 20px ;border-radius: 20px;border: none;color: white;}
+.button{background-color: rgba(10, 221, 116, 0.877);padding: 5px 20px ;border-radius: 20px;border: none;color: white;margin-bottom: 15px;}
 .container{margin-bottom: 50px;}
 .main{background-color: rgb(179 212 179 / 43%);
-    padding: 0px 0px 20px 0px;
+   
 }
-}
+.minicard{text-align: center;padding: 10px;background-color: rgba(157, 185, 176, 0.24);height:225px;border-radius: 20px;}
 .bg{background-color: rgb(179 212 179); ;}
+
+.minicard1{text-align: center;padding: 10px;background-color: white;height:225px;border-radius: 20px;box-shadow: 1px 1px 10px -7px black;;}
+
+
+
+.col{border: none;}
+.course{font-size: 17px;margin-top: 2px;}
+
+.man{position: relative;}
+.man1{left: 120px;}
+
+
+.card1{border: none;box-shadow: 1px 1px 15px -7px black;border-radius: 20px;}
+
+
+
+
+.footchild{margin-left: 30px;}
+
+.footchild1{margin-left: 10px;}
