@@ -1,23 +1,31 @@
-.sign{background-color: rgba(10, 221, 116, 0.877);padding: 0px 25px;border-radius: 20px;color: white;border: none;}
+
+
+
+.button:hover{background-color: black;color: chartreuse;}
+
+
 
 .img{max-width: 100px;}
+
+.img4{max-width: 150px;}
+
 .img1{max-width: 30px;}
 .img2{max-width: 50%;;}
 
 .button{background-color: rgba(10, 221, 116, 0.877);padding: 5px 20px ;border-radius: 20px;border: none;color: white;margin-bottom: 15px;}
-.container{margin-bottom: 50px;}
+.container{margin-bottom: 50px;padding-bottom: 25px;}
 .main{background-color: rgb(179 212 179 / 43%);
    
 }
-.minicard{text-align: center;padding: 10px;background-color: rgba(157, 185, 176, 0.24);height:225px;border-radius: 20px;}
+.minicard{text-align: center;padding: 10px;background-color: rgba(196, 219, 212, 0.24);height:230px;border-radius: 20px;}
 .bg{background-color: rgb(179 212 179); ;}
 
-.minicard1{text-align: center;padding: 10px;background-color: white;height:225px;border-radius: 20px;box-shadow: 1px 1px 10px -7px black;;}
+.minicard1{text-align: center;padding: 10px;background-color: white;height:225px;border-radius: 20px;box-shadow: 1px 1px 15px -7px black;;}
 
 
 
 .col{border: none;}
-.course{font-size: 17px;margin-top: 2px;}
+.course{font-size: 15px;margin-top: 2px;}
 
 .man{position: relative;}
 .man1{left: 120px;}
@@ -28,6 +36,10 @@
 
 
 
-.footchild{margin-left: 30px;}
+.footchild{margin-left: 50px;}
 
 .footchild1{margin-left: 10px;}
+
+footer{text-align: center;color: white;}
+.main2{background-color: rgba(10, 0, 0, 0.918);}
+.pad{padding-top: 40px;color: white;}
